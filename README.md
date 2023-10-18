@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Atualmente estou estudando Node.js, Express, Prisma.
+- 🌱 Atualmente estou estudando Node.js e Java.
 
 - 📫 Contate-me no email: kelvemloubach@outlook.com
 
